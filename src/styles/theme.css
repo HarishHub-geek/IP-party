@@ -1,0 +1,21 @@
+@theme {
+  --color-cream: #faf6ea;
+  --color-sand: #ede4cc;
+  --color-forest: #134624;
+  --color-olive: #4a5322;
+  --color-navy: #1d3561;
+  --color-red: #f53c28;
+  --color-lime: #e5f557;
+  --color-charcoal: #1a1918;
+  --color-taupe: #8a8478;
+
+  --font-serif: "Instrument Serif", Georgia, serif;
+  --font-sans: "Manrope", system-ui, sans-serif;
+  --font-ui: "DM Sans", system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+  font-family: var(--font-sans);
+}
