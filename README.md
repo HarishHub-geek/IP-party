@@ -56,12 +56,12 @@ The official landing page repository for **[The IP Sprint Retreat]**, created an
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/HarishHub-geek/IP-party.git
 
 2. **Navigate to the Directory:**
 
     ```bash
-    cd ip-sprint-retreat
+    cd Ip-party
 3. **Open Locally:**
 Open index.html in your browser or serve via a local development server:
 
